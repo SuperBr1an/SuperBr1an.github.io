@@ -41,7 +41,7 @@ export default function Contact() {
               <div>
                 <b>Phone</b>
                 <span>
-                  <a href="tel:+13526180659">(352) 618-0659</a>
+                  <a href="tel:+15318951006">(531) 895-1006</a>
                 </span>
               </div>
             </div>
